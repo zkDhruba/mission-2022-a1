@@ -7,10 +7,21 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.margin {
+    padding-left: 15%;
+}
+
 .left-border {
     padding-left: 25px;
     border-left: 5px solid;
-    border-color: indianred;
+    border-radius: 5px;
+    border-color: lightcoral;
 }
 
 .orange-color {
@@ -26,7 +37,7 @@ h1 {
 }
 
 .half-width img {
-    margin-left: 250px;
+    margin-left: 15%;
     width: 40%;
 }
 
@@ -41,4 +52,71 @@ h1 {
 
 .scroll-down {
     margin-top: 50px;
+}
+
+.mid-flex {
+    display: flex;
+    justify-content: center;
+}
+
+.mission {
+    margin-top: 20px;
+    width: 360px;
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+
+.mission img {
+    width: 50%;
+}
+
+.vission {
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 360px;
+    padding: 20px;
+    background-color: rgba(255, 182, 193, 0.486);
+    border-radius: 20px;
+}
+
+.vission img {
+    width: 50%;
+}
+
+.goals {
+    margin-top: 20px;
+    width: 360px;
+    padding: 20px;
+    background-color: rgba(255, 235, 205, 0.493);
+    border-radius: 20px;
+}
+
+.goals img {
+    width: 50%;
+}
+
+.lets-half {
+    width: 50%;
+    margin-top: 100px;
+}
+
+.lets-half img {
+    width: 50%;
+    margin-top: 40px;
+    margin-left: 290px;
+}
+
+.dev-text {
+    text-align: left;
+}
+
+.ordhek {
+    margin-top: 150px;
+}
+
+#pen-al {
+    text-align: justify;
+    margin-right: 290px;
 }
