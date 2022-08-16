@@ -136,3 +136,28 @@ h2 {
 .another-ordhek {
     margin-top: 150px;
 }
+
+.red {
+    color: crimson;
+}
+
+#whitte {
+    color: antiquewhite;
+}
+
+#mission-likha {
+    padding-top: 50px;
+    font-family: 'Lobster', cursive;
+}
+
+.foot-wash {
+    margin: 0 auto;
+    background-color: black;
+}
+
+#cyan {
+    color: lightblue;
+    text-align: center;
+    padding-bottom: 50px;
+    font-weight: 50;
+}
