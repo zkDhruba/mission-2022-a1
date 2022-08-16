@@ -113,10 +113,26 @@ h2 {
 }
 
 .ordhek {
-    margin-top: 150px;
+    margin-top: 200px;
 }
 
 #pen-al {
     text-align: justify;
     margin-right: 290px;
+}
+
+.another-half {
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 290px;
+}
+
+.another-half img {
+    width: 50%;
+    margin-top: 40px;
+    margin-right: 200px;
+}
+
+.another-ordhek {
+    margin-top: 150px;
 }
