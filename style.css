@@ -1,6 +1,15 @@
 body {
     font-family: 'Heebo', sans-serif;
+    margin: 0;
     ;
+}
+
+#stay-focused-likha {
+    font-family: 'Yeseva One', cursive;
+}
+
+.justify {
+    text-align: justify;
 }
 
 h1 {
@@ -95,6 +104,22 @@ h2 {
 
 .goals img {
     width: 50%;
+}
+
+.dev-area {
+    background-image: url(images/shapes/my-1.png);
+    background-repeat: no-repeat;
+    background-position: 225px 200px;
+}
+
+.commu-area {
+    background-image: url(images/shapes/my-1.png);
+    background-repeat: no-repeat;
+    background-position: 85% 20%;
+}
+
+.dev-area img {
+    width: 10px;
 }
 
 .lets-half {
